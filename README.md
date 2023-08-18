@@ -12,3 +12,7 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+# For Visualisation click the link below
+
+https://expo.dev/@shaheernashad/ReactNativeApp?serviceType=classic&distribution=expo-go
